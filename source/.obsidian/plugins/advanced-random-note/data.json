@@ -1,0 +1,23 @@
+{
+  "openInNewLeaf": true,
+  "queries": [
+    {
+      "id": "query:86ae3a8d-9ad2-4c7a-af18-55b92b1b4998",
+      "name": "Quotes",
+      "query": "LIST\nFROM \"Quotes\"",
+      "type": "Dataview",
+      "createCommand": true,
+      "useDisabledFolders": false
+    },
+    {
+      "id": "query:b1a1570e-a79f-468e-86e6-b6d56c071c3e",
+      "name": "Confessons",
+      "query": "LIST\nFROM \"Confessions\"",
+      "type": "Dataview",
+      "createCommand": true,
+      "useDisabledFolders": false
+    }
+  ],
+  "disabledFolders": "Templates/",
+  "debug": false
+}

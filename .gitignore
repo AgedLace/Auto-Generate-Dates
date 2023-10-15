@@ -1,0 +1,6 @@
+*_mkdocs_build.log
+*_mkdocs_debug.zip
+.obsidian/*
+.trash/*
+.temp/*
+.venv/*

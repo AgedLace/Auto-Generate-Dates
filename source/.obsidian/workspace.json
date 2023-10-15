@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "562b540b55a2dff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c90ccf710f63178d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598b347dbc18146f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "749fabfce7db421d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3562f49ba038b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99143faf52493be5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11b26a551a99bd0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "574d683f28f1155e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5
+  },
+  "right": {
+    "id": "47f6d5e893fea601",
+    "type": "split",
+    "children": [
+      {
+        "id": "3259329272df05b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b405fe1354b6092d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "820fb3ad72542a4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian/mixed listings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40caeb424e6119c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/mixed listings.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d3d7dcfd97bee4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian/mixed listings.md"
+              }
+            }
+          },
+          {
+            "id": "68790ba7591053d0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b59d2924cca6b8e5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "99143faf52493be5",
+  "lastOpenFiles": [
+    "obsidian/mathjaxsupport.md",
+    "obsidian/internal links preview test.md",
+    "obsidian/extended obsidian.md",
+    "obsidian/comment test.md",
+    "obsidian/basic-obsidian.md",
+    "callouts.md",
+    "index.md",
+    "blog/Test Auto Update.md",
+    "_templates/blog-template.md",
+    "blog/blog-post3.md",
+    "blog/Test Automated Dates.md",
+    "setup/README.md",
+    "setup/07-current-build-and-publish-workflow.md",
+    "setup/06-pub-debugger-plugin-notes.md",
+    "setup/05-pub-minifier-plugin-notes.md",
+    "setup/04-pub-social-plugin-notes.md",
+    "setup/03-pub-obsidian-plugin-notes.md",
+    "setup/02-pub-blog-plugin-notes.md",
+    "setup/01-pub-metadata-plugin-notes.md",
+    "obsidian/mixed listings.md",
+    "markdown/extended-markdown.md",
+    "markdown/basic-markdown.md",
+    "blog/blog-post2.md",
+    "blog/blog-post1.md",
+    "blog/Test Auto Dates.md",
+    "blog/Testing Auto Dates.md",
+    "tux.avif",
+    "tux.avif.partial~",
+    "_templates/blog-template.md.partial~",
+    "blog/blog-post2.md.partial~",
+    "blog/blog-post1.md.partial~",
+    "javascripts/mathjax.js",
+    "javascripts",
+    "obsidian/assets/tux.png",
+    "obsidian/assets",
+    "obsidian",
+    "[[Projects/Book of Affirmations",
+    "0 - Inbox/Bible Study/Assets/Pasted image 20230706003305.png",
+    "3 - Resources/Dreams/@Hannah - Dream Images/2023-07-24 - IMG_3955.jpg",
+    "3 - Resources/Dreams/@Hannah - Dream Images/2023-07-24 - IMG_3954.jpg",
+    "3 - Resources/Library/Health/Fasting/Assets/6-Styles-of-Fasting.jpg",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230716000605.png",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230716000549.png",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230715214541.png",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230715214356.png",
+    "3 - Resources/Library/Health/Lymphedema/Assets/Pasted image 20230715214023.png",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Mid-23/Danny/Other/DH.canvas",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Database folder template/Notes/Home.canvas",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Academic-Vault/Notes/Home.canvas",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Obsidian - Danny Hatcher - Base Vault - No Community plugins/Home Search.canvas",
+    "1 - Projects/Danny Hatcher Bundle/00 - BUNDLED VAULTS/Obsidian - Danny Hatcher - Base Vault - No Community plugins/Home Cards.canvas",
+    "1 - Projects/Danny Hatcher Bundle/Home.canvas"
+  ]
+}

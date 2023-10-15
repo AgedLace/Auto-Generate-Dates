@@ -1,0 +1,22 @@
+{
+  "chime-theme@@theme-settings": "theme-notion",
+  "chime-theme@@folder-color-options": "folder-rainbow-backgrounds",
+  "chime-theme@@colored-bold-and-italic": true,
+  "chime-theme@@underlined-highlight": true,
+  "chime-theme@@custom-font-toggle": true,
+  "chime-theme@@custom-font": "Figtree",
+  "drag-n-drop@@dnd-gutter-handle": "#FFFFFF",
+  "chime-theme@@blockquote-mark": false,
+  "chime-theme@@blockquote-style": "blockquote-floating",
+  "chime-theme@@callout-style": "callout-floating",
+  "chime-theme@@tag-style": "tag-button",
+  "chime-theme@@code-normal": "var(--text-normal)",
+  "chime-theme@@heading-colors": "colorful-headings-alt",
+  "chime-theme@@smaller-headings": true,
+  "minimal-style@@base@@dark": "#000000",
+  "minimal-style@@ax1@@dark": "#9765D8",
+  "minimal-style@@blockquote-font-style": "italic",
+  "minimal-style@@trim-cols": false,
+  "minimal-style@@tx1@@dark": "#FFFFFF",
+  "minimal-style@@file-header-visibility": "minimal-tab-title-visible"
+}

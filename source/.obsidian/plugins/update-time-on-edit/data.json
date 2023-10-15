@@ -1,0 +1,29 @@
+{
+  "dateFormat": "yyyy-MM-dd HH:mm:ss",
+  "enableCreateTime": false,
+  "headerUpdated": "update",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "_templates",
+    "markdown",
+    "obsidian",
+    "setup"
+  ],
+  "ignoreCreatedFolder": [
+    "",
+    "_templates",
+    "markdown",
+    "obsidian",
+    "setup"
+  ],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "index.md": "9120fe2172b58d1dd2dcac9c8ba63d90e70ff4367553c5b902d8a9ec0f970be4",
+    "callouts.md": "7f880579a48a4f1430b9e7a1e7461769c29199d56585a74eafcb47bcc3486dce",
+    "blog/blog-post3.md": "f5c65c6654869830a4dd92c7868e7d49c00786d72ad3d77572e9df748a19d17a",
+    "blog/blog-post2.md": "15aa4e98ac0fe6b084456afb6a3b5903727de57051f4433dcc2fecea431d815f",
+    "blog/blog-post1.md": "28ae1045737c68a2de2da001f7bb0d82c174c05a8a93ab80c8026e8d2520b44d",
+    "blog/README.md": "4db286fa1a25789e3cde09770289e049f3ad3466854c1465617d99b607f83005"
+  }
+}

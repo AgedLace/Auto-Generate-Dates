@@ -1,0 +1,52 @@
+.tag {
+  background-color: var(--text-accent);
+  border: none;
+  color: white;
+  font-size: 11px;
+  padding: 1px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 14px;
+}
+.tag:hover {
+color: white;
+background-color: var(--text-accent-hover);
+}
+.tag[href^="#obsidian"] {
+  background-color: #4d3ca6;
+}
+.tag[href^="#important"] {
+  background-color: red;
+}
+.tag[href^="#complete"] {
+  background-color: green;
+}
+.tag[href^="#inprogress"] {
+  background-color: orange;
+}
+
+/* Another Way To Do It */
+
+/*************** TAG ***************/
+/*
+Just change all four “NAME” for your tag name, delete “:before” code if you don’t want to add an icon and change the colors.
+*/
+/*
+.tag[href="#NAME"],
+.cm-s-obsidian .CodeMirror-line span.cm-tag-NAME:not(.cm-formatting-hashtag),
+.cm-s-obsidian .CodeMirror-line span.cm-tag-NAME {
+  background-color: #f95959;
+  color: #000;
+}
+.tag[href="#NAME"]:before {
+  content: "❓";
+  padding: 0 -30px 15px 5px;
+  margin: 0 0 0 -5px;
+}
+*/
+/*************** END ***************/
+
+

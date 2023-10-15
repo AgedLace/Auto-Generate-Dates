@@ -1,0 +1,21 @@
+{
+  "accentColor": "#bb98e6",
+  "baseFontSize": 15,
+  "cssTheme": "Dracula Plus",
+  "enabledCssSnippets": [
+    "custom-admonitions.972e30",
+    "snippets",
+    "enhanced-folders-and-TOC",
+    "nicer-checkboxes",
+    "tag-pills",
+    "tables-auto-centered",
+    "clean-embeds-all",
+    "naked-embeds",
+    "hyphenation-justification"
+  ],
+  "theme": "obsidian",
+  "nativeMenus": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
+}

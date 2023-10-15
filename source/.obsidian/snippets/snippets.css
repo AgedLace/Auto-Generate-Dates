@@ -1,0 +1,41 @@
+hr {
+  border-top: 1px solid white;
+}
+
+
+/* Customised Symbolic HR Line */
+
+/*
+.markdown-preview-view hr {
+  margin-block-start: 4em;
+  margin-block-end: 4em;
+  border: none;
+  height: 1px;
+  background-image: linear-gradient(to right, var(--background-primary), var(--text-accent), var(--background-primary));
+}
+
+.markdown-preview-view hr::after {
+  content: '§';
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(60deg);
+  transform-origin: 50% 50%;
+  padding: 0.5rem;
+  color: var(--text-sub-accent);
+  background-color: var(--background-primary);
+}
+
+*/
+
+/* Better word and character spacing */
+body {
+  word-spacing: -0.04rem;
+  letter-spacing: 0.01rem;
+}
+
+/* Sharp and Clear HI Resolution Screens */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

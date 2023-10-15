@@ -1,0 +1,94 @@
+site_name: MkDocs Publisher - Version 1.2.0
+site_url: https://example.com
+
+copyright: Copyright &copy; 2023 - Me
+
+docs_dir: source
+site_dir: docs
+
+# use_directory_urls: true
+
+# strict: false
+
+dev_addr: 127.0.0.1:8666
+
+theme:
+  name: 'material'
+# logo: logo.png
+# favicon: favicon.png
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font: false
+  features:
+    - navigation.footer
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      title: Table of Contents
+  - tables
+  - nl2br
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+      line_spans: --span
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.magiclink
+
+
+plugins:
+  - pub-debugger
+  - search
+  - pub-obsidian
+  - pub-blog
+  - pub-social
+  - pub-meta
+  - pub-minifier

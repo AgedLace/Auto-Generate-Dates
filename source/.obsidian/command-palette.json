@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "templater-obsidian:insert-templater",
+    "editor:insert-callout",
+    "file-explorer:move-file"
+  ]
+}
